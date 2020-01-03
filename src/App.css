@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  margin: 3em;
+}
+
+.chip {
+  margin: 0.25em;
 }
 
 .App-logo {
